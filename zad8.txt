@@ -1,0 +1,3 @@
+Ala 5
+Marek 10
+Kotlet 12
